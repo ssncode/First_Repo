@@ -8,6 +8,11 @@ public class Operation {
 		int V1 =(a+b);
 		return V1;
 	}
+	public int sum1(int a,int b)
+	{
+		int V1 =(a+b);
+		return V1;
+	}
 	
 	public int sub(int c,int d)
 	{
