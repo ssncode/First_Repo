@@ -15,6 +15,9 @@ public class Student {
 	public void display3() {
 		System.out.println("Automation is very easy");
 	}
+	public void display4() {
+		System.out.println("Automation is very easy");
+	}
 	public static void main (String[] args) {
 		
 		Student obj=new Student();
