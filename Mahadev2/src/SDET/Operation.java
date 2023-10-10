@@ -12,8 +12,8 @@ public class Operation {
 	
 	public int sub(int c,int d)
 	{
-		int V2= (c-d);
-		return V2;
+		int V3= (c-d);
+		return V3;
 	}
 	public int div(int a,int b)
 	{
